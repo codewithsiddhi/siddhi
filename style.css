@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: relative;
+    background-color: white;
+}
+
+.middle{
+    background-image: url(./background-2132909_1920.jpg);
+    color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 1rem;
+    font-size: 600;
+}
+
+.fastdelivery{
+    background-image: url("./pizza-3870778_1920.jpg");
+    color: white;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.upper1{
+    background-image: url(./pexels-isabella-mendes-338713.jpg);
+    color: white;
+    margin: 1rem;
+    padding: 8rem;
+    height: 80vh;
+    font-size: 300;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.middle1{
+    background-image: url(./pexels-alesia-kozik-6072095.jpg);
+    color: white;
+    margin:1rem ;
+    padding: 8rem;
+    height: 80vh;
+    font-size: 300;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.last1{
+    background-image: url(./pexels-mike-jones-9461497.jpg);
+    color: white;
+    margin: 1rem;
+    padding: 8rem;
+    height: 80vh;
+    font-size: 300;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+    
+
+
+.upper{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+span{
+    font-size: 3rem !important;
+}
+
+.lower{
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.btn1{
+margin: 1rem;
+padding: 1rem 3rem;
+width:20rem ;
+background-color: black;
+color: white;
+border-radius: 2rem;
+}
+
+.right{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#service{
+    width: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.about{
+    background-image: url(./pexels-isabella-mendes-338713.jpg);
+   color: antiquewhite;
+   height: 10vh;
+   background-size: cover;
+   background-position: center;
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-start;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+}
+
+.row{
+    width: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-size: 3rem !important;
+}
+
+.service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1{
+    display: flex;
+    justify-content: first baseline;
+    align-items: self-start;
+}
+
+.btn2{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    padding: 1rem 3rem;
+    background-color: black;
+    color: bisque;
+    border-radius: 2rem;
+    width: 20rem;
+}
+
+.contactus{
+    background-image: url(./pizza-5163800_1920.jpg);
+    color: white;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.btn3{
+    margin: 1rem;
+    padding: 1rem 3rem;
+    width: 20rem;
+background-color: black;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.last1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
